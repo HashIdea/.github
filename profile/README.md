@@ -5,7 +5,8 @@ We are a team of engineers with over **5 years of experience** in blockchain dev
 
 ## 🚀 Our Ongoing Projects
 
-- **Flip**  
+- **Flip**  [X](https://x.com/flip_io) | [Website](https://www.flipnft.xyz/)
+
   An all-in-one NFT liquidity solution and platform for NFT issuance and trading, running on the EVM.  
   *Empowering creators and collectors with seamless NFT experiences.* 🎨
 
