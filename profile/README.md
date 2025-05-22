@@ -10,10 +10,10 @@ We are a team of engineers with over **5 years of experience** in blockchain dev
   An all-in-one NFT liquidity solution and platform for NFT issuance and trading, running on the EVM.  
   *Empowering creators and collectors with seamless NFT experiences.* 🎨
 
-- **Gitrant**  
+- **Gitrant**  [x](https://x.com/gitrant_fund) | [Website](https://www.gitrant.xyz)
   An open-source public goods funding platform, addressing the challenge of sustainable funding for open-source projects. Built on SVM.  
   *Supporting the builders of tomorrow’s digital commons.* 💡
 
-- **MoveAS (Move Attestation Service)**  
+- **MoveAS (Move Attestation Service)**   [x](https://x.com/moveas_xyz) | [Website](https://www.moveas.xyz)
   An open-source public good built on Move, providing attestation services for the Move ecosystem.  
   *Enhancing trust and transparency in Move-based applications.* 🔒
